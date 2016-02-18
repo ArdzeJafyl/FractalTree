@@ -15,7 +15,6 @@ public void draw()
 		branchAngle = 0.001;
 	else
 		branchAngle = posAngle/480;
-	System.out.println(branchAngle);
 	background(200);   
 	stroke(170,130,80);
 	strokeWeight(orgW);  
